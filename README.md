@@ -1,0 +1,2 @@
+# hamervock
+codes conciousness
